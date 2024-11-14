@@ -1,0 +1,35 @@
+body{
+    background-color: black; 
+   
+    color: white;
+   
+    text-align: center;
+   
+    margin: 0;
+    
+}
+
+h1{
+    margin: 50px;
+    padding: 30px ;
+    border-radius: 20px;
+}
+main{
+    background-color: rgb(10, 9, 9);
+    padding: 20px;
+}
+.cabecalho{
+    background-color: rgb(31, 92, 161);
+    margin: 0;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a{
+    color: white;
+    padding: 24px;
+    font-size: 24px;
+    text-decoration: none;
+}
